@@ -10,3 +10,6 @@ An open source program that allows you to use AI for absolutely free. You can ge
 - I left a voice recording in the text
 - Changed the visual
 - Added an interface
+
+New interface style:
+<img src="https://github.com/Doremii109/FreeAI-GUI/blob/main/FreeAI_App_enqGOdgA5S.png" alt="Gui Image"/>
